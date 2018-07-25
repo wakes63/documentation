@@ -351,9 +351,9 @@ Additionally, UKCloud provides retrospective performance information via its Por
 
 No, customers are responsible for the patching of their services. We make a patch repository available to customers for VMs on the Elevated OFFICIAL cloud platform (which cannot connect to the internet) for common operating systems that we provide.
 
-### How do I find the latest patches to the UKCloud infrastructure?
+<!-- ### How do I find the latest patches to the UKCloud infrastructure?
 
-UKCloud maintains a Knowledge Centre article advising the [current patch level](../other/other-ref-platform-patches.md) of the UKCloud infrastructure.
+UKCloud maintains a Knowledge Centre article advising the [current patch level](../other/other-ref-platform-patches.md) of the UKCloud infrastructure. -->
 
 ### How do I access support and patches for operating systems that UKCloud licenses?
 
